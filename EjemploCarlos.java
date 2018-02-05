@@ -14,6 +14,10 @@ public class EjemploCarlos
         System.out.println("Hola chacho");
     }
     
+    public void segundoCommit(){
+        System.out.println("segundo commit");
+    }
+    
     /**
      * Constructor for objects of class EjemploCarlos
      */
